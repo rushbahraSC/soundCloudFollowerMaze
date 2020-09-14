@@ -1,0 +1,178 @@
+Mon Sep 14 00:31:34 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:31:34 CDT 2020 [INFO] Starting...
+Mon Sep 14 00:31:34 CDT 2020 [INFO] 	events: 10000000
+Mon Sep 14 00:31:34 CDT 2020 [INFO] 	randomSeed: 666
+Mon Sep 14 00:31:34 CDT 2020 [INFO] 	users: 30
+Mon Sep 14 00:31:34 CDT 2020 [INFO] 	concurrency: 3
+Mon Sep 14 00:31:34 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:31:34 CDT 2020 [INFO] Connecting...
+Mon Sep 14 00:31:34 CDT 2020 [INFO] 	event source
+Mon Sep 14 00:31:34 CDT 2020 [INFO] 		connecting socket at port: 9090
+Mon Sep 14 00:31:35 CDT 2020 [INFO] 	3 clients
+Mon Sep 14 00:31:35 CDT 2020 [INFO] 		connecting socket at port: 9099
+Mon Sep 14 00:31:35 CDT 2020 [INFO] 		connecting socket at port: 9099
+Mon Sep 14 00:31:35 CDT 2020 [INFO] 		connecting socket at port: 9099
+Mon Sep 14 00:31:35 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:31:35 CDT 2020 [INFO] 3 clients listening...
+Mon Sep 14 00:31:35 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:31:35 CDT 2020 [INFO] Sending 10000000 events...
+Mon Sep 14 00:31:36 CDT 2020 [INFO] Sent: Broadcast -> 6, Follow -> 9168, Private -> 9480, StatusUpdate -> 34732, Unfollow -> 9136, total -> 62522
+Mon Sep 14 00:31:37 CDT 2020 [INFO] Sent: Broadcast -> 7, Follow -> 17807, Private -> 18339, StatusUpdate -> 67283, Unfollow -> 17798, total -> 121234
+Mon Sep 14 00:31:38 CDT 2020 [INFO] Sent: Broadcast -> 11, Follow -> 26787, Private -> 27560, StatusUpdate -> 101212, Unfollow -> 26727, total -> 182297
+Mon Sep 14 00:31:39 CDT 2020 [INFO] Sent: Broadcast -> 12, Follow -> 27750, Private -> 28552, StatusUpdate -> 104783, Unfollow -> 27704, total -> 188801
+Mon Sep 14 00:31:40 CDT 2020 [INFO] Sent: Broadcast -> 23, Follow -> 44839, Private -> 46090, StatusUpdate -> 168527, Unfollow -> 44791, total -> 304270
+Mon Sep 14 00:31:41 CDT 2020 [INFO] Sent: Broadcast -> 26, Follow -> 50890, Private -> 52314, StatusUpdate -> 190882, Unfollow -> 50868, total -> 344980
+Mon Sep 14 00:31:42 CDT 2020 [INFO] Sent: Broadcast -> 29, Follow -> 56891, Private -> 58520, StatusUpdate -> 213351, Unfollow -> 56862, total -> 385653
+Mon Sep 14 00:31:43 CDT 2020 [INFO] Sent: Broadcast -> 40, Follow -> 74998, Private -> 76672, StatusUpdate -> 281028, Unfollow -> 74929, total -> 507667
+Mon Sep 14 00:31:44 CDT 2020 [INFO] Sent: Broadcast -> 46, Follow -> 87216, Private -> 88813, StatusUpdate -> 325840, Unfollow -> 87195, total -> 589110
+Mon Sep 14 00:31:45 CDT 2020 [INFO] Sent: Broadcast -> 53, Follow -> 99222, Private -> 101155, StatusUpdate -> 371052, Unfollow -> 99131, total -> 670613
+Mon Sep 14 00:31:46 CDT 2020 [INFO] Sent: Broadcast -> 60, Follow -> 111176, Private -> 113731, StatusUpdate -> 415954, Unfollow -> 111159, total -> 752080
+Mon Sep 14 00:31:47 CDT 2020 [INFO] Sent: Broadcast -> 67, Follow -> 123171, Private -> 126021, StatusUpdate -> 461075, Unfollow -> 123166, total -> 833500
+Mon Sep 14 00:31:48 CDT 2020 [INFO] Sent: Broadcast -> 78, Follow -> 135243, Private -> 138191, StatusUpdate -> 506122, Unfollow -> 135229, total -> 914863
+Mon Sep 14 00:31:49 CDT 2020 [INFO] Sent: Broadcast -> 87, Follow -> 152710, Private -> 156233, StatusUpdate -> 572787, Unfollow -> 152707, total -> 1034524
+Mon Sep 14 00:31:50 CDT 2020 [INFO] Sent: Broadcast -> 95, Follow -> 163677, Private -> 167725, StatusUpdate -> 614950, Unfollow -> 163658, total -> 1110105
+Mon Sep 14 00:31:51 CDT 2020 [INFO] Sent: Broadcast -> 98, Follow -> 169211, Private -> 173400, StatusUpdate -> 636039, Unfollow -> 169209, total -> 1147957
+Mon Sep 14 00:31:52 CDT 2020 [INFO] Sent: Broadcast -> 98, Follow -> 169211, Private -> 173400, StatusUpdate -> 636039, Unfollow -> 169209, total -> 1147957
+Mon Sep 14 00:31:53 CDT 2020 [INFO] Sent: Broadcast -> 98, Follow -> 169211, Private -> 173400, StatusUpdate -> 636039, Unfollow -> 169209, total -> 1147957
+Mon Sep 14 00:31:54 CDT 2020 [INFO] Sent: Broadcast -> 102, Follow -> 176020, Private -> 180351, StatusUpdate -> 662120, Unfollow -> 176005, total -> 1194598
+Mon Sep 14 00:31:55 CDT 2020 [INFO] Sent: Broadcast -> 111, Follow -> 191733, Private -> 196538, StatusUpdate -> 721500, Unfollow -> 191733, total -> 1301615
+Mon Sep 14 00:31:56 CDT 2020 [INFO] Sent: Broadcast -> 122, Follow -> 208150, Private -> 213123, StatusUpdate -> 783123, Unfollow -> 208108, total -> 1412626
+Mon Sep 14 00:31:57 CDT 2020 [INFO] Sent: Broadcast -> 130, Follow -> 219244, Private -> 224519, StatusUpdate -> 825206, Unfollow -> 219221, total -> 1488320
+Mon Sep 14 00:31:58 CDT 2020 [INFO] Sent: Broadcast -> 138, Follow -> 228279, Private -> 233618, StatusUpdate -> 859389, Unfollow -> 228239, total -> 1549663
+Mon Sep 14 00:31:59 CDT 2020 [INFO] Sent: Broadcast -> 150, Follow -> 243184, Private -> 248765, StatusUpdate -> 915388, Unfollow -> 243183, total -> 1650670
+Mon Sep 14 00:32:00 CDT 2020 [INFO] Sent: Broadcast -> 161, Follow -> 256656, Private -> 262486, StatusUpdate -> 965498, Unfollow -> 256649, total -> 1741450
+Mon Sep 14 00:32:01 CDT 2020 [INFO] Sent: Broadcast -> 171, Follow -> 269331, Private -> 275710, StatusUpdate -> 1014000, Unfollow -> 269312, total -> 1828524
+Mon Sep 14 00:32:02 CDT 2020 [INFO] Sent: Broadcast -> 173, Follow -> 274935, Private -> 281286, StatusUpdate -> 1035021, Unfollow -> 274931, total -> 1866346
+Mon Sep 14 00:32:03 CDT 2020 [INFO] Sent: Broadcast -> 173, Follow -> 274935, Private -> 281286, StatusUpdate -> 1035021, Unfollow -> 274931, total -> 1866346
+Mon Sep 14 00:32:04 CDT 2020 [INFO] Sent: Broadcast -> 173, Follow -> 274935, Private -> 281286, StatusUpdate -> 1035021, Unfollow -> 274931, total -> 1866346
+Mon Sep 14 00:32:05 CDT 2020 [INFO] Sent: Broadcast -> 173, Follow -> 274935, Private -> 281286, StatusUpdate -> 1035021, Unfollow -> 274931, total -> 1866346
+Mon Sep 14 00:32:06 CDT 2020 [INFO] Sent: Broadcast -> 187, Follow -> 291632, Private -> 298444, StatusUpdate -> 1097791, Unfollow -> 291629, total -> 1979683
+Mon Sep 14 00:32:07 CDT 2020 [INFO] Sent: Broadcast -> 195, Follow -> 302877, Private -> 309880, StatusUpdate -> 1139444, Unfollow -> 302875, total -> 2055271
+Mon Sep 14 00:32:08 CDT 2020 [INFO] Sent: Broadcast -> 210, Follow -> 319568, Private -> 326977, StatusUpdate -> 1202383, Unfollow -> 319535, total -> 2168673
+Mon Sep 14 00:32:09 CDT 2020 [INFO] Sent: Broadcast -> 217, Follow -> 330671, Private -> 338553, StatusUpdate -> 1244196, Unfollow -> 330649, total -> 2244286
+Mon Sep 14 00:32:10 CDT 2020 [INFO] Sent: Broadcast -> 224, Follow -> 341805, Private -> 350045, StatusUpdate -> 1285916, Unfollow -> 341789, total -> 2319779
+Mon Sep 14 00:32:11 CDT 2020 [INFO] Sent: Broadcast -> 235, Follow -> 352943, Private -> 361354, StatusUpdate -> 1327922, Unfollow -> 352913, total -> 2395367
+Mon Sep 14 00:32:12 CDT 2020 [INFO] Sent: Broadcast -> 241, Follow -> 364058, Private -> 372727, StatusUpdate -> 1369981, Unfollow -> 364026, total -> 2471033
+Mon Sep 14 00:32:13 CDT 2020 [INFO] Sent: Broadcast -> 247, Follow -> 375187, Private -> 384236, StatusUpdate -> 1411829, Unfollow -> 375177, total -> 2546676
+Mon Sep 14 00:32:14 CDT 2020 [INFO] Sent: Broadcast -> 253, Follow -> 380706, Private -> 389982, StatusUpdate -> 1432778, Unfollow -> 380705, total -> 2584424
+Mon Sep 14 00:32:15 CDT 2020 [INFO] Sent: Broadcast -> 259, Follow -> 388187, Private -> 397797, StatusUpdate -> 1461132, Unfollow -> 388155, total -> 2635530
+Mon Sep 14 00:32:16 CDT 2020 [INFO] Sent: Broadcast -> 276, Follow -> 410752, Private -> 420815, StatusUpdate -> 1545451, Unfollow -> 410723, total -> 2788017
+Mon Sep 14 00:32:17 CDT 2020 [INFO] Sent: Broadcast -> 289, Follow -> 425231, Private -> 435844, StatusUpdate -> 1599994, Unfollow -> 425231, total -> 2886589
+Mon Sep 14 00:32:18 CDT 2020 [INFO] Sent: Broadcast -> 295, Follow -> 436309, Private -> 447555, StatusUpdate -> 1641718, Unfollow -> 436296, total -> 2962173
+Mon Sep 14 00:32:19 CDT 2020 [INFO] Sent: Broadcast -> 295, Follow -> 436309, Private -> 447555, StatusUpdate -> 1641718, Unfollow -> 436296, total -> 2962173
+Mon Sep 14 00:32:20 CDT 2020 [INFO] Sent: Broadcast -> 295, Follow -> 436309, Private -> 447555, StatusUpdate -> 1641718, Unfollow -> 436296, total -> 2962173
+Mon Sep 14 00:32:21 CDT 2020 [INFO] Sent: Broadcast -> 295, Follow -> 436309, Private -> 447555, StatusUpdate -> 1641718, Unfollow -> 436296, total -> 2962173
+Mon Sep 14 00:32:22 CDT 2020 [INFO] Sent: Broadcast -> 295, Follow -> 436309, Private -> 447555, StatusUpdate -> 1641718, Unfollow -> 436296, total -> 2962173
+Mon Sep 14 00:32:23 CDT 2020 [INFO] Sent: Broadcast -> 297, Follow -> 441822, Private -> 453399, StatusUpdate -> 1662675, Unfollow -> 441806, total -> 2999999
+Mon Sep 14 00:32:24 CDT 2020 [INFO] Sent: Broadcast -> 314, Follow -> 458437, Private -> 470480, StatusUpdate -> 1725833, Unfollow -> 458412, total -> 3113476
+Mon Sep 14 00:32:25 CDT 2020 [INFO] Sent: Broadcast -> 318, Follow -> 469487, Private -> 482005, StatusUpdate -> 1767695, Unfollow -> 469484, total -> 3188989
+Mon Sep 14 00:32:26 CDT 2020 [INFO] Sent: Broadcast -> 329, Follow -> 486144, Private -> 499132, StatusUpdate -> 1830707, Unfollow -> 486113, total -> 3302425
+Mon Sep 14 00:32:27 CDT 2020 [INFO] Sent: Broadcast -> 332, Follow -> 491797, Private -> 504842, StatusUpdate -> 1851487, Unfollow -> 491781, total -> 3340239
+Mon Sep 14 00:32:28 CDT 2020 [INFO] Sent: Broadcast -> 342, Follow -> 508491, Private -> 521900, StatusUpdate -> 1914402, Unfollow -> 508474, total -> 3453609
+Mon Sep 14 00:32:29 CDT 2020 [INFO] Sent: Broadcast -> 353, Follow -> 519513, Private -> 533460, StatusUpdate -> 1956485, Unfollow -> 519501, total -> 3529312
+Mon Sep 14 00:32:30 CDT 2020 [INFO] Sent: Broadcast -> 363, Follow -> 536219, Private -> 550528, StatusUpdate -> 2019390, Unfollow -> 536182, total -> 3642682
+Mon Sep 14 00:32:31 CDT 2020 [INFO] Sent: Broadcast -> 363, Follow -> 536219, Private -> 550528, StatusUpdate -> 2019390, Unfollow -> 536182, total -> 3642682
+Mon Sep 14 00:32:32 CDT 2020 [INFO] Sent: Broadcast -> 363, Follow -> 536219, Private -> 550528, StatusUpdate -> 2019390, Unfollow -> 536182, total -> 3642682
+Mon Sep 14 00:32:33 CDT 2020 [INFO] Sent: Broadcast -> 363, Follow -> 536219, Private -> 550528, StatusUpdate -> 2019390, Unfollow -> 536182, total -> 3642682
+Mon Sep 14 00:32:34 CDT 2020 [INFO] Sent: Broadcast -> 363, Follow -> 536219, Private -> 550528, StatusUpdate -> 2019390, Unfollow -> 536182, total -> 3642682
+Mon Sep 14 00:32:35 CDT 2020 [INFO] Sent: Broadcast -> 373, Follow -> 547308, Private -> 561944, StatusUpdate -> 2061393, Unfollow -> 547305, total -> 3718323
+Mon Sep 14 00:32:36 CDT 2020 [INFO] Sent: Broadcast -> 392, Follow -> 564068, Private -> 579058, StatusUpdate -> 2124235, Unfollow -> 564030, total -> 3831783
+Mon Sep 14 00:32:37 CDT 2020 [INFO] Sent: Broadcast -> 402, Follow -> 580154, Private -> 595568, StatusUpdate -> 2184841, Unfollow -> 580127, total -> 3941092
+Mon Sep 14 00:32:38 CDT 2020 [INFO] Sent: Broadcast -> 407, Follow -> 586272, Private -> 601839, StatusUpdate -> 2208123, Unfollow -> 586264, total -> 3982905
+Mon Sep 14 00:32:39 CDT 2020 [INFO] Sent: Broadcast -> 412, Follow -> 597385, Private -> 613258, StatusUpdate -> 2250019, Unfollow -> 597380, total -> 4058454
+Mon Sep 14 00:32:40 CDT 2020 [INFO] Sent: Broadcast -> 425, Follow -> 614440, Private -> 631007, StatusUpdate -> 2314638, Unfollow -> 614405, total -> 4174915
+Mon Sep 14 00:32:41 CDT 2020 [INFO] Sent: Broadcast -> 432, Follow -> 630810, Private -> 647703, StatusUpdate -> 2375504, Unfollow -> 630750, total -> 4285199
+Mon Sep 14 00:32:42 CDT 2020 [INFO] Sent: Broadcast -> 436, Follow -> 641834, Private -> 659120, StatusUpdate -> 2417688, Unfollow -> 641807, total -> 4360885
+Mon Sep 14 00:32:43 CDT 2020 [INFO] Sent: Broadcast -> 445, Follow -> 658529, Private -> 676207, StatusUpdate -> 2480608, Unfollow -> 658513, total -> 4474302
+Mon Sep 14 00:32:44 CDT 2020 [INFO] Sent: Broadcast -> 455, Follow -> 669668, Private -> 687698, StatusUpdate -> 2522347, Unfollow -> 669661, total -> 4549829
+Mon Sep 14 00:32:45 CDT 2020 [INFO] Sent: Broadcast -> 461, Follow -> 680842, Private -> 699129, StatusUpdate -> 2564218, Unfollow -> 680807, total -> 4625457
+Mon Sep 14 00:32:46 CDT 2020 [INFO] Sent: Broadcast -> 470, Follow -> 697578, Private -> 716227, StatusUpdate -> 2626943, Unfollow -> 697557, total -> 4738775
+Mon Sep 14 00:32:47 CDT 2020 [INFO] Sent: Broadcast -> 487, Follow -> 714311, Private -> 733328, StatusUpdate -> 2689783, Unfollow -> 714295, total -> 4852204
+Mon Sep 14 00:32:48 CDT 2020 [INFO] Sent: Broadcast -> 503, Follow -> 730937, Private -> 750480, StatusUpdate -> 2752772, Unfollow -> 730909, total -> 4965601
+Mon Sep 14 00:32:49 CDT 2020 [INFO] Sent: Broadcast -> 504, Follow -> 736577, Private -> 756157, StatusUpdate -> 2773638, Unfollow -> 736533, total -> 5003409
+Mon Sep 14 00:32:50 CDT 2020 [INFO] Sent: Broadcast -> 518, Follow -> 753230, Private -> 773467, StatusUpdate -> 2836314, Unfollow -> 753196, total -> 5116725
+Mon Sep 14 00:32:51 CDT 2020 [INFO] Sent: Broadcast -> 524, Follow -> 769717, Private -> 790337, StatusUpdate -> 2898563, Unfollow -> 769697, total -> 5228838
+Mon Sep 14 00:32:52 CDT 2020 [INFO] Sent: Broadcast -> 524, Follow -> 770428, Private -> 791085, StatusUpdate -> 2901112, Unfollow -> 770425, total -> 5233574
+Mon Sep 14 00:32:53 CDT 2020 [INFO] Sent: Broadcast -> 527, Follow -> 786594, Private -> 807698, StatusUpdate -> 2962099, Unfollow -> 786574, total -> 5343492
+Mon Sep 14 00:32:54 CDT 2020 [INFO] Sent: Broadcast -> 537, Follow -> 800232, Private -> 821831, StatusUpdate -> 3013886, Unfollow -> 800206, total -> 5436692
+Mon Sep 14 00:32:55 CDT 2020 [INFO] Sent: Broadcast -> 541, Follow -> 808781, Private -> 830595, StatusUpdate -> 3046132, Unfollow -> 808768, total -> 5494817
+Mon Sep 14 00:32:56 CDT 2020 [INFO] Sent: Broadcast -> 547, Follow -> 820046, Private -> 841855, StatusUpdate -> 3087803, Unfollow -> 820044, total -> 5570295
+Mon Sep 14 00:32:57 CDT 2020 [INFO] Sent: Broadcast -> 561, Follow -> 836725, Private -> 859153, StatusUpdate -> 3150559, Unfollow -> 836705, total -> 5683703
+Mon Sep 14 00:32:58 CDT 2020 [INFO] Sent: Broadcast -> 566, Follow -> 846216, Private -> 869018, StatusUpdate -> 3186855, Unfollow -> 846197, total -> 5748852
+Mon Sep 14 00:32:59 CDT 2020 [INFO] Sent: Broadcast -> 571, Follow -> 858820, Private -> 882182, StatusUpdate -> 3234517, Unfollow -> 858819, total -> 5834909
+Mon Sep 14 00:33:00 CDT 2020 [INFO] Sent: Broadcast -> 582, Follow -> 869977, Private -> 893730, StatusUpdate -> 3276204, Unfollow -> 869964, total -> 5910457
+Mon Sep 14 00:33:01 CDT 2020 [INFO] Sent: Broadcast -> 587, Follow -> 881000, Private -> 905247, StatusUpdate -> 3318276, Unfollow -> 880994, total -> 5986104
+Mon Sep 14 00:33:02 CDT 2020 [INFO] Sent: Broadcast -> 587, Follow -> 881000, Private -> 905247, StatusUpdate -> 3318276, Unfollow -> 880994, total -> 5986104
+Mon Sep 14 00:33:03 CDT 2020 [INFO] Sent: Broadcast -> 597, Follow -> 896365, Private -> 921021, StatusUpdate -> 3376172, Unfollow -> 896334, total -> 6090489
+Mon Sep 14 00:33:04 CDT 2020 [INFO] Sent: Broadcast -> 609, Follow -> 914324, Private -> 939602, StatusUpdate -> 3444124, Unfollow -> 914304, total -> 6212963
+Mon Sep 14 00:33:05 CDT 2020 [INFO] Sent: Broadcast -> 609, Follow -> 914324, Private -> 939602, StatusUpdate -> 3444124, Unfollow -> 914304, total -> 6212963
+Mon Sep 14 00:33:06 CDT 2020 [INFO] Sent: Broadcast -> 624, Follow -> 930963, Private -> 956883, StatusUpdate -> 3506917, Unfollow -> 930941, total -> 6326328
+Mon Sep 14 00:33:07 CDT 2020 [INFO] Sent: Broadcast -> 627, Follow -> 939981, Private -> 966034, StatusUpdate -> 3540971, Unfollow -> 939970, total -> 6387583
+Mon Sep 14 00:33:08 CDT 2020 [INFO] Sent: Broadcast -> 632, Follow -> 947702, Private -> 973887, StatusUpdate -> 3569856, Unfollow -> 947694, total -> 6439771
+Mon Sep 14 00:33:09 CDT 2020 [INFO] Sent: Broadcast -> 635, Follow -> 954662, Private -> 981010, StatusUpdate -> 3596098, Unfollow -> 954606, total -> 6487011
+Mon Sep 14 00:33:10 CDT 2020 [INFO] Sent: Broadcast -> 637, Follow -> 958885, Private -> 985279, StatusUpdate -> 3611700, Unfollow -> 958858, total -> 6515359
+Mon Sep 14 00:33:11 CDT 2020 [INFO] Sent: Broadcast -> 637, Follow -> 958885, Private -> 985279, StatusUpdate -> 3611700, Unfollow -> 958858, total -> 6515359
+Mon Sep 14 00:33:12 CDT 2020 [INFO] Sent: Broadcast -> 637, Follow -> 958885, Private -> 985279, StatusUpdate -> 3611700, Unfollow -> 958858, total -> 6515359
+Mon Sep 14 00:33:13 CDT 2020 [INFO] Sent: Broadcast -> 637, Follow -> 958885, Private -> 985279, StatusUpdate -> 3611700, Unfollow -> 958858, total -> 6515359
+Mon Sep 14 00:33:14 CDT 2020 [INFO] Sent: Broadcast -> 637, Follow -> 958885, Private -> 985279, StatusUpdate -> 3611700, Unfollow -> 958858, total -> 6515359
+Mon Sep 14 00:33:15 CDT 2020 [INFO] Sent: Broadcast -> 637, Follow -> 958885, Private -> 985279, StatusUpdate -> 3611700, Unfollow -> 958858, total -> 6515359
+Mon Sep 14 00:33:16 CDT 2020 [INFO] Sent: Broadcast -> 637, Follow -> 958885, Private -> 985279, StatusUpdate -> 3611700, Unfollow -> 958858, total -> 6515359
+Mon Sep 14 00:33:17 CDT 2020 [INFO] Sent: Broadcast -> 637, Follow -> 958885, Private -> 985279, StatusUpdate -> 3611700, Unfollow -> 958858, total -> 6515359
+Mon Sep 14 00:33:18 CDT 2020 [INFO] Sent: Broadcast -> 637, Follow -> 958885, Private -> 985279, StatusUpdate -> 3611700, Unfollow -> 958858, total -> 6515359
+Mon Sep 14 00:33:19 CDT 2020 [INFO] Sent: Broadcast -> 638, Follow -> 961239, Private -> 987749, StatusUpdate -> 3620847, Unfollow -> 961238, total -> 6531711
+Mon Sep 14 00:33:20 CDT 2020 [INFO] Sent: Broadcast -> 643, Follow -> 975663, Private -> 1002254, StatusUpdate -> 3674596, Unfollow -> 975615, total -> 6628771
+Mon Sep 14 00:33:21 CDT 2020 [INFO] Sent: Broadcast -> 646, Follow -> 981169, Private -> 1007948, StatusUpdate -> 3695673, Unfollow -> 981160, total -> 6666596
+Mon Sep 14 00:33:22 CDT 2020 [INFO] Sent: Broadcast -> 650, Follow -> 986720, Private -> 1013792, StatusUpdate -> 3716424, Unfollow -> 986713, total -> 6704299
+Mon Sep 14 00:33:23 CDT 2020 [INFO] Sent: Broadcast -> 655, Follow -> 992252, Private -> 1019599, StatusUpdate -> 3737367, Unfollow -> 992226, total -> 6742099
+Mon Sep 14 00:33:24 CDT 2020 [INFO] Sent: Broadcast -> 663, Follow -> 1008877, Private -> 1036889, StatusUpdate -> 3800275, Unfollow -> 1008864, total -> 6855568
+Mon Sep 14 00:33:25 CDT 2020 [INFO] Sent: Broadcast -> 673, Follow -> 1019980, Private -> 1048527, StatusUpdate -> 3842006, Unfollow -> 1019957, total -> 6931143
+Mon Sep 14 00:33:26 CDT 2020 [INFO] Sent: Broadcast -> 683, Follow -> 1031166, Private -> 1059923, StatusUpdate -> 3883858, Unfollow -> 1031138, total -> 7006768
+Mon Sep 14 00:33:27 CDT 2020 [INFO] Sent: Broadcast -> 691, Follow -> 1044350, Private -> 1073311, StatusUpdate -> 3933312, Unfollow -> 1044322, total -> 7095986
+Mon Sep 14 00:33:28 CDT 2020 [INFO] Sent: Broadcast -> 699, Follow -> 1059050, Private -> 1088491, StatusUpdate -> 3988367, Unfollow -> 1059040, total -> 7195647
+Mon Sep 14 00:33:29 CDT 2020 [INFO] Sent: Broadcast -> 712, Follow -> 1070341, Private -> 1099895, StatusUpdate -> 4029982, Unfollow -> 1070333, total -> 7271263
+Mon Sep 14 00:33:30 CDT 2020 [INFO] Sent: Broadcast -> 717, Follow -> 1081526, Private -> 1111169, StatusUpdate -> 4071935, Unfollow -> 1081493, total -> 7346840
+Mon Sep 14 00:33:31 CDT 2020 [INFO] Sent: Broadcast -> 724, Follow -> 1096416, Private -> 1126502, StatusUpdate -> 4127466, Unfollow -> 1096384, total -> 7447492
+Mon Sep 14 00:33:32 CDT 2020 [INFO] Sent: Broadcast -> 727, Follow -> 1103857, Private -> 1134049, StatusUpdate -> 4155530, Unfollow -> 1103827, total -> 7497990
+Mon Sep 14 00:33:33 CDT 2020 [INFO] Sent: Broadcast -> 727, Follow -> 1103857, Private -> 1134049, StatusUpdate -> 4155530, Unfollow -> 1103827, total -> 7497990
+Mon Sep 14 00:33:34 CDT 2020 [INFO] Sent: Broadcast -> 727, Follow -> 1103857, Private -> 1134049, StatusUpdate -> 4155530, Unfollow -> 1103827, total -> 7497990
+Mon Sep 14 00:33:35 CDT 2020 [INFO] Sent: Broadcast -> 727, Follow -> 1103857, Private -> 1134049, StatusUpdate -> 4155530, Unfollow -> 1103827, total -> 7497990
+Mon Sep 14 00:33:36 CDT 2020 [INFO] Sent: Broadcast -> 727, Follow -> 1103857, Private -> 1134049, StatusUpdate -> 4155530, Unfollow -> 1103827, total -> 7497990
+Mon Sep 14 00:33:37 CDT 2020 [INFO] Sent: Broadcast -> 727, Follow -> 1103857, Private -> 1134049, StatusUpdate -> 4155530, Unfollow -> 1103827, total -> 7497990
+Mon Sep 14 00:33:38 CDT 2020 [INFO] Sent: Broadcast -> 727, Follow -> 1103857, Private -> 1134049, StatusUpdate -> 4155530, Unfollow -> 1103827, total -> 7497990
+Mon Sep 14 00:33:39 CDT 2020 [INFO] Sent: Broadcast -> 727, Follow -> 1103857, Private -> 1134049, StatusUpdate -> 4155530, Unfollow -> 1103827, total -> 7497990
+Mon Sep 14 00:33:40 CDT 2020 [INFO] Sent: Broadcast -> 733, Follow -> 1115091, Private -> 1145590, StatusUpdate -> 4197017, Unfollow -> 1115088, total -> 7573519
+Mon Sep 14 00:33:41 CDT 2020 [INFO] Sent: Broadcast -> 739, Follow -> 1129062, Private -> 1160027, StatusUpdate -> 4249839, Unfollow -> 1129017, total -> 7668684
+Mon Sep 14 00:33:42 CDT 2020 [INFO] Sent: Broadcast -> 752, Follow -> 1142990, Private -> 1174008, StatusUpdate -> 4301920, Unfollow -> 1142965, total -> 7762635
+Mon Sep 14 00:33:43 CDT 2020 [INFO] Sent: Broadcast -> 760, Follow -> 1159618, Private -> 1191101, StatusUpdate -> 4364933, Unfollow -> 1159609, total -> 7876021
+Mon Sep 14 00:33:44 CDT 2020 [INFO] Sent: Broadcast -> 767, Follow -> 1172021, Private -> 1203946, StatusUpdate -> 4411889, Unfollow -> 1172019, total -> 7960642
+Mon Sep 14 00:33:45 CDT 2020 [INFO] Sent: Broadcast -> 786, Follow -> 1187364, Private -> 1219843, StatusUpdate -> 4469666, Unfollow -> 1187351, total -> 8065010
+Mon Sep 14 00:33:46 CDT 2020 [INFO] Sent: Broadcast -> 791, Follow -> 1199490, Private -> 1232213, StatusUpdate -> 4515151, Unfollow -> 1199488, total -> 8147133
+Mon Sep 14 00:33:47 CDT 2020 [INFO] Sent: Broadcast -> 805, Follow -> 1215159, Private -> 1248085, StatusUpdate -> 4573251, Unfollow -> 1215130, total -> 8252430
+Mon Sep 14 00:33:48 CDT 2020 [INFO] Sent: Broadcast -> 811, Follow -> 1226448, Private -> 1259781, StatusUpdate -> 4616126, Unfollow -> 1226411, total -> 8329577
+Mon Sep 14 00:33:49 CDT 2020 [INFO] Sent: Broadcast -> 820, Follow -> 1243100, Private -> 1276887, StatusUpdate -> 4679196, Unfollow -> 1243065, total -> 8443068
+Mon Sep 14 00:33:50 CDT 2020 [INFO] Sent: Broadcast -> 824, Follow -> 1248719, Private -> 1282637, StatusUpdate -> 4699868, Unfollow -> 1248717, total -> 8480765
+Mon Sep 14 00:33:51 CDT 2020 [INFO] Sent: Broadcast -> 831, Follow -> 1265427, Private -> 1299641, StatusUpdate -> 4762945, Unfollow -> 1265405, total -> 8594249
+Mon Sep 14 00:33:52 CDT 2020 [INFO] Sent: Broadcast -> 839, Follow -> 1276555, Private -> 1310957, StatusUpdate -> 4804897, Unfollow -> 1276554, total -> 8669802
+Mon Sep 14 00:33:53 CDT 2020 [INFO] Sent: Broadcast -> 845, Follow -> 1287560, Private -> 1322489, StatusUpdate -> 4846979, Unfollow -> 1287523, total -> 8745396
+Mon Sep 14 00:33:54 CDT 2020 [INFO] Sent: Broadcast -> 857, Follow -> 1304166, Private -> 1339665, StatusUpdate -> 4909963, Unfollow -> 1304136, total -> 8858787
+Mon Sep 14 00:33:55 CDT 2020 [INFO] Sent: Broadcast -> 861, Follow -> 1311486, Private -> 1347073, StatusUpdate -> 4937231, Unfollow -> 1311483, total -> 8908134
+Mon Sep 14 00:33:56 CDT 2020 [INFO] Sent: Broadcast -> 870, Follow -> 1326382, Private -> 1362429, StatusUpdate -> 4993995, Unfollow -> 1326377, total -> 9010053
+Mon Sep 14 00:33:57 CDT 2020 [INFO] Sent: Broadcast -> 874, Follow -> 1332019, Private -> 1368132, StatusUpdate -> 5014841, Unfollow -> 1331984, total -> 9047850
+Mon Sep 14 00:33:58 CDT 2020 [INFO] Sent: Broadcast -> 889, Follow -> 1348679, Private -> 1385256, StatusUpdate -> 5077812, Unfollow -> 1348663, total -> 9161299
+Mon Sep 14 00:33:59 CDT 2020 [INFO] Sent: Broadcast -> 897, Follow -> 1359803, Private -> 1396644, StatusUpdate -> 5119831, Unfollow -> 1359772, total -> 9236947
+Mon Sep 14 00:34:00 CDT 2020 [INFO] Sent: Broadcast -> 901, Follow -> 1368362, Private -> 1405593, StatusUpdate -> 5152148, Unfollow -> 1368342, total -> 9295346
+Mon Sep 14 00:34:01 CDT 2020 [INFO] Sent: Broadcast -> 910, Follow -> 1382103, Private -> 1419741, StatusUpdate -> 5203304, Unfollow -> 1382072, total -> 9388130
+Mon Sep 14 00:34:02 CDT 2020 [INFO] Sent: Broadcast -> 916, Follow -> 1393215, Private -> 1431069, StatusUpdate -> 5245282, Unfollow -> 1393210, total -> 9463692
+Mon Sep 14 00:34:03 CDT 2020 [INFO] Sent: Broadcast -> 921, Follow -> 1404315, Private -> 1442428, StatusUpdate -> 5287353, Unfollow -> 1404311, total -> 9539328
+Mon Sep 14 00:34:04 CDT 2020 [INFO] Sent: Broadcast -> 925, Follow -> 1409873, Private -> 1448279, StatusUpdate -> 5308171, Unfollow -> 1409854, total -> 9577102
+Mon Sep 14 00:34:05 CDT 2020 [INFO] Sent: Broadcast -> 933, Follow -> 1425349, Private -> 1464466, StatusUpdate -> 5367107, Unfollow -> 1425335, total -> 9683190
+Mon Sep 14 00:34:06 CDT 2020 [INFO] Sent: Broadcast -> 938, Follow -> 1431973, Private -> 1471225, StatusUpdate -> 5392255, Unfollow -> 1431959, total -> 9728350
+Mon Sep 14 00:34:07 CDT 2020 [INFO] Sent: Broadcast -> 953, Follow -> 1448630, Private -> 1488530, StatusUpdate -> 5455124, Unfollow -> 1448598, total -> 9841835
+Mon Sep 14 00:34:08 CDT 2020 [INFO] Sent: Broadcast -> 957, Follow -> 1457218, Private -> 1497268, StatusUpdate -> 5487339, Unfollow -> 1457194, total -> 9899976
+Mon Sep 14 00:34:08 CDT 2020 [INFO] Sent: Broadcast -> 962, Follow -> 1471938, Private -> 1512369, StatusUpdate -> 5542856, Unfollow -> 1471875, total -> 10000000
+Mon Sep 14 00:34:08 CDT 2020 [INFO] ...events sent, event source connection closed
+Mon Sep 14 00:34:08 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:34:08 CDT 2020 [INFO] waiting for remaining clients notifications...
+Mon Sep 14 00:34:10 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:34:10 CDT 2020 [INFO] \o/ ALL NOTIFICATIONS RECEIVED \o/ (in 155 seconds)
+Mon Sep 14 00:34:10 CDT 2020 [INFO] ========================================================
