@@ -31,7 +31,6 @@ Logger Implementation:
 - Use of "who" to display the class name and "message" to display the custom error/info message.
 
 FlowChart:
-i[Screenshot](flowchart.jpg)
 
 Future Work:
 - The Dead Priority Queue can be further implemented to analyse the messages.
