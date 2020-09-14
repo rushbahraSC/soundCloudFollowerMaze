@@ -45,6 +45,6 @@ Future Work:
 	Make use of Spring framework based microservices to implement Follower Maze which is much faster.
 	
 	
-Test Results Attached:
+Test Results Added:
 - testResult_runall.txt for runall.sh
 - testResult_runfast.txt for runfast.sh
