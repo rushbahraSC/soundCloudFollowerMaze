@@ -46,5 +46,5 @@ Future Work:
 	
 	
 Test results for both the scripts are attached.
-	testResult_runall.txt for runall.sh
-	testResult_runfast.txt for runfast.sh
+	- testResult_runall.txt for runall.sh
+	- testResult_runfast.txt for runfast.sh
