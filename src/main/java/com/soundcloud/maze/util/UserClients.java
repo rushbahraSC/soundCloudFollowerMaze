@@ -10,9 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class UserClients {
 
-    public static Thread ClientThread() throws SocketException {
-
-        Map<Long, Socket> clientPool = new ConcurrentHashMap<>();
+    public static Thread ClientThread(Map<Long, Socket> clientPool) throws SocketException {
 
         return new Thread(() -> {
             Logger.info(Constants.USER_CLIENTS, "Listening for client requests on " + Constants.CLIENT_PORT);

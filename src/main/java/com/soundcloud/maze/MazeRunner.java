@@ -9,9 +9,10 @@ public class MazeRunner {
 
     public static void main(String[] args) {
 
+        Map<Long, Socket> clientPool = new ConcurrentHashMap<>();
         try {
-            EventSource.EventThread().start();
-            UserClients.ClientThread().start();
+            EventSource.EventThread(clientPool).start();
+            UserClients.ClientThread(clientPool).start();
         } catch (SocketException e) {
             Logger.error("MazeRunner", "Unable to complete the request.");
         }

@@ -21,11 +21,10 @@ import static java.util.Collections.emptySet;
 public class EventProcesser {
 
     private static long lastSeqNo = 0L;
-    private static Map<Long, Socket> clientPool = new ConcurrentHashMap<>();
     private static Map<Long, List<String>> seqNoToMessage = new HashMap<>();
     private static Map<Long, Set<Long>> followRegistry = new HashMap<>();
 
-    public static void processEvents(String payload) {
+    public static void processEvents(String payload, Map<Long, Socket> clientPool) {
         Logger.info("EventProcesser", "Message received: " + payload);
 
         List<String> payloadParts = Arrays.asList(payload.split("\\|"));

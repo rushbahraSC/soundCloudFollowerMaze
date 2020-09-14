@@ -10,14 +10,14 @@ import java.net.Socket;
 
 public class EventSource {
 
-    public static Thread EventThread() throws SocketException {
+    public static Thread EventThread(Map<Long, Socket> clientPool) throws SocketException {
 
         return new Thread(() -> {
             Logger.info(Constants.EVENT_SOURCE, "Listening for events on " + Constants.EVENT_PORT);
             try (Socket eventSocket = new ServerSocket(Constants.EVENT_PORT).accept()) {
                 try (BufferedReader reader = new BufferedReader(new InputStreamReader(eventSocket.getInputStream()))) {
                     reader.lines().forEach(payload -> {
-                        EventProcesser.processEvents(payload);
+                        EventProcesser.processEvents(payload, clientPool);
                     });
                 } catch (InvalidEventException e) {
                     Logger.error(Constants.EVENT_SOURCE, "Unable to process events.");
