@@ -1,0 +1,27 @@
+Mon Sep 14 00:30:51 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:30:51 CDT 2020 [INFO] Starting...
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 	events: 100000
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 	randomSeed: 666
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 	users: 30
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 	concurrency: 3
+Mon Sep 14 00:30:51 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:30:51 CDT 2020 [INFO] Connecting...
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 	event source
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 		connecting socket at port: 9090
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 	3 clients
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 		connecting socket at port: 9099
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 		connecting socket at port: 9099
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 		connecting socket at port: 9099
+Mon Sep 14 00:30:51 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:30:51 CDT 2020 [INFO] 3 clients listening...
+Mon Sep 14 00:30:51 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:30:51 CDT 2020 [INFO] Sending 100000 events...
+Mon Sep 14 00:30:52 CDT 2020 [INFO] Sent: Broadcast -> 3, Follow -> 2775, Private -> 2830, StatusUpdate -> 10512, Unfollow -> 2759, total -> 18879
+Mon Sep 14 00:30:53 CDT 2020 [INFO] Sent: Broadcast -> 6, Follow -> 9622, Private -> 9945, StatusUpdate -> 36508, Unfollow -> 9619, total -> 65700
+Mon Sep 14 00:30:53 CDT 2020 [INFO] Sent: Broadcast -> 7, Follow -> 14650, Private -> 15146, StatusUpdate -> 55573, Unfollow -> 14624, total -> 100000
+Mon Sep 14 00:30:53 CDT 2020 [INFO] ...events sent, event source connection closed
+Mon Sep 14 00:30:53 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:30:53 CDT 2020 [INFO] waiting for remaining clients notifications...
+Mon Sep 14 00:30:55 CDT 2020 [INFO] ========================================================
+Mon Sep 14 00:30:55 CDT 2020 [INFO] \o/ ALL NOTIFICATIONS RECEIVED \o/ (in 4 seconds)
+Mon Sep 14 00:30:55 CDT 2020 [INFO] ========================================================
