@@ -43,3 +43,8 @@ Future Work:
 	These valid requests from DLQ can then be retrieved based on a retry logic to check for validity and added to the valid queue.
 - Performance Improvements.
 	Make use of Spring framework based microservices to implement Follower Maze which is much faster.
+	
+	
+Test results for both the scripts are attached.
+	testResult_runall.txt for runall.sh
+	testResult_runfast.txt for runfast.sh
