@@ -1,5 +1,4 @@
 Sound Cloud Follower Maze Coding Challenge
-			        --Rushmeet Bahra
 
 			
 Refactor:
